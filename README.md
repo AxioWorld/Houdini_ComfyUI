@@ -2,7 +2,7 @@
 
 Open source Bridge Houdini and comfyUI
 
-![CUIxHou](https://github.com/user-attachments/assets/3c1b3305-89b4-4b2a-9fdd-04f963c2524d)
+![CUIxHou](https://github.com/user-attachments/assets/023f25e5-3344-4e1e-844b-d42d01563cd8)
 
 
 # Installation
