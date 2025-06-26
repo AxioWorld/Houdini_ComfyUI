@@ -1,0 +1,31 @@
+{
+    "hpath": "$HCOMFYUI",
+    "load_package_once": true,
+    "version": "0.1",
+    "enable": true,
+    "env": [
+        {
+            "HCOMFYUI": "D:/ia/Houdini_Comfy/Houdini_ComfyUI/"
+        },
+        {
+            "HCOMFYUI_COMFYUI": "D:/ia/Houdini_Comfy/comfy2/ComfyUI"
+        },
+        {
+            "HCOMFYUI_MODELS": "$HCOMFYUI_COMFYUI/models/"
+        },
+        {
+            "HCOMFYUI_VENV": "D:/ia/Houdini_Comfy/comfy2/venv"
+        },
+        {
+            "PYTHONPATH": {
+                "value": [
+                    "$HCOMFYUI/python/"
+                ],
+                "method": "prepend"
+            }
+        },
+        {
+            "HoudiniComfyUI_VERSION": "0.1"
+        }
+    ]
+}
