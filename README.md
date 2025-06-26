@@ -2,6 +2,8 @@
 
 Open source Bridge Houdini and comfyUI
 
+![CxH](https://github.com/user-attachments/assets/059e1090-336f-4001-b7a4-9c9e97075ef3)
+
 # Installation
 
 -move Houdini_ComfyUI.json to C:\Users[YourUserName]\Documents\houdini20.5\packages
