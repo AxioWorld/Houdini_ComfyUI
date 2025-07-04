@@ -7,15 +7,13 @@ Open source Bridge Houdini and comfyUI
 
 # Installation
 
--move Houdini_ComfyUI.json to C:\Users[YourUserName]\Documents\houdini20.5\packages
-
--Replace "HCOMFYUI" by your Houdini_ComfyUI path
-
--Run Houdini and click on Install Dependencies (first btn in the shelf)
-
--Then Install Comfy (second btn)
-
--copy all the models to the comfyUI model directory at the correct  location
+- Donwload Zip file or git clone the Repositories
+- Move Houdini_ComfyUI.json to C:\Users[YourUserName]\Documents\houdini20.5\packages
+(if you don't see packages folder , create this)
+- Replace "HCOMFYUI" by your Houdini_ComfyUI path
+- Run Houdini and click on Install Dependencies (first btn in the shelf)
+- Then Install Comfy (second btn)
+- copy all the models to the comfyUI model directory at the correct  location
 
 https://huggingface.co/city96/FLUX.1-dev-gguf/tree/main
 https://huggingface.co/comfyanonymous/flux_text_encoders/blob/main/clip_l.safetensors
