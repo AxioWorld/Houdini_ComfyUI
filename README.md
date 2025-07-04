@@ -1,6 +1,6 @@
 # Houdini_ComfyUI
 
-Open source Bridge Houdini and comfyUI by https://github.com/NXStorm and https://github.com/Caremba
+Open source Bridge Houdini and comfyUI by https://github.com/NXStorm , https://github.com/Caremba and https://github.com/Lilien86
 
 ![CUIxHou](https://github.com/user-attachments/assets/023f25e5-3344-4e1e-844b-d42d01563cd8)
 
