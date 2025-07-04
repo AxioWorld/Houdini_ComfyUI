@@ -40,6 +40,12 @@ https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/blob/main
 ( DualClipLoader and UnetLoader)
 10. You can close all windows and run Houdini !
 
+## DEMO
+
+https://github.com/user-attachments/assets/fe140d06-0c8a-42b5-b76f-4c92c5ef95ef
+
+
+
 ## Current Nodes
 
 - **depth_map**: Generates a depth map using camera and object input parameters.
@@ -72,7 +78,7 @@ https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/blob/main
 - Same for the Image Preview node output
 - The first time you launch the process, you may encounter the error: "ComfyUI not launched normally". This is normal because ComfyUI starts in the background (you can check the CMD window). Once ComfyUI finishes loading, you can re-cook the process!
 
-  ## References Project
-  https://github.com/proceduralit/StableDiffusion_Houdini
-  https://github.com/vinavfx/ComfyUI-for-Nuke
-  https://github.com/stassius/StableHoudini
+ ## Project References
+- https://github.com/proceduralit/StableDiffusion_Houdini
+- https://github.com/vinavfx/ComfyUI-for-Nuke
+- https://github.com/stassius/StableHoudini
