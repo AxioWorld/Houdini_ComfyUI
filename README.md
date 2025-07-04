@@ -33,7 +33,7 @@ https://huggingface.co/Comfy-Org/Lumina_Image_2.0_Repackaged/blob/main/split_fil
  **to**`...\ComfyUI\models\vae`
 
 https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/blob/main/control_v11f1p_sd15_depth_fp16.safetensors 
- **to**`\ComfyUI\models\controlnet`
+ **to**`...\ComfyUI\models\controlnet`
 
 8. Copy **all** files in the python of the Houdini_ComfyUI to the Comfyui venv/Lib/site-packages (some library are missing like yaml)
 9. Run the launch_script.bat and install custom nodes for FluxGGUF ( ComfyUI-GGUF by City96)
