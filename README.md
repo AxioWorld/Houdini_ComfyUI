@@ -71,3 +71,8 @@ https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/blob/main
 - Before generate image , select the output path tab in comfyui node ➝ Export
 - Same for the Image Preview node output
 - The first time you launch the process, you may encounter the error: "ComfyUI not launched normally". This is normal because ComfyUI starts in the background (you can check the CMD window). Once ComfyUI finishes loading, you can re-cook the process!
+
+  ## References Project
+  https://github.com/proceduralit/StableDiffusion_Houdini
+  https://github.com/vinavfx/ComfyUI-for-Nuke
+  https://github.com/stassius/StableHoudini
