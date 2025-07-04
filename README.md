@@ -42,9 +42,7 @@ https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/blob/main
 
 ## DEMO
 
-https://github.com/user-attachments/assets/fe140d06-0c8a-42b5-b76f-4c92c5ef95ef
-
-
+https://github.com/user-attachments/assets/02ea4402-2c56-47d6-be97-7cea72c32fe4
 
 ## Current Nodes
 
